@@ -1,0 +1,30 @@
+::cue-region(){
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: serif;
+}
+.main{
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+    border-radius: 10px;
+    margin: auto;padding-top: 100px;
+}
+.child{
+    width: 90px;
+    height: 120px;
+    background-color: black;
+    margin: auto;
+    border-radius: 30px;
+    transform: rotate(-30deg);
+    padding-top: 10px;
+}
+
+.nevara{
+    width: 5px;
+    height: 20px;
+    background-color: gray;
+    margin-left: 40px;
+    
+}
